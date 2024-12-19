@@ -21,19 +21,19 @@
 - 👨‍💻 Programming Skills: 🐍Python, Golang, Bash.
 
 
-<div id="repo" align="center">
+<!-- <div id="repo" align="center">
     <a href="https://github.com/M1andy/adc">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=M1andy&repo=adc&show_owner=true">
+        <img style="height: auto; width: 50%" src="https://github-readme-stats.vercel.app/api/pin/?username=M1andy&repo=adc&show_owner=true">
     </a>
-</div>
+</div> -->
 
 <br>
 
-<div id="stats" align="center">
+<div id="stats" class="container">
     <a href="https://github.com/M1andy">
-        <img src="https://github-readme-stats.vercel.app/api?username=M1andy">
+        <img style="height: auto; width: 50.5%" src="https://github-readme-stats.vercel.app/api?username=M1andy">
     </a>
     <a href="https://github.com/M1andy">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1andy&layout=compact&hide=html,javascript,scss,css,java,c++,liquid">
+        <img style="height: auto; width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1andy&layout=compact&hide=html,javascript,scss,css,java,c++,liquid">
     </a>
 </div>
