@@ -36,6 +36,6 @@
 &nbsp;
 &nbsp;
     <a href="https://github.com/M1andy">
-        <img style="height: auto; width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1andy&layout=compact&hide=html,javascript,scss,css,java,c++,liquid">
+        <img style="height: auto; width: 40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1andy&layout=compact&hide=html,javascript,scss,css,java,c++,liquid,ruby,tex,powershell">
     </a>
 </div>
